@@ -1,13 +1,13 @@
 // hey there, kindly read this file till the end for better configuration
 
 global.settings = {
-  OWNER_NUMBERS: "2349067339193", // your number with country code
-  OWNER_NAME: 'Miracle', // your owner name 
+  OWNER_NUMBERS: "27786897433", // your number with country code
+  OWNER_NAME: '_Diaz_', // your owner name 
   BOT_NAME: "KORD", // your preferred bot name
-  SESSION_ID: 'your_sessionid', // replace your_sessionid with yours and make sure its inside rhe quotes
+  SESSION_ID: 'kord_ai-x5OiK6h20f4J', // replace your_sessionid with yours and make sure its inside rhe quotes
   INVINCIBLE_MODE: false, // toogle invincible mode 
   WORK_MODE: "Public",
-  TIME_ZONE: "Africa/Lagos",
+  TIME_ZONE: "Africa/Johannesburg",
   ANTI_VIEWONCE: true,
   READ_ALL_MESSAGES: false,
   AUTO_READ_STATUS: true,
@@ -36,6 +36,6 @@ global.settings = {
   WELCOME_MESSAGE: "👋 Welcome to the group! We're glad to have you here. 😊",
   DELETE_WA_LINKS: false,
   BAD_WORD_FILTER: true,
-  BAD_WORDS: ['badword1', 'badword2', 'fuck', 'bitch', 'hentai'],
+  BAD_WORDS: ['badword1],
   ANTI_DELETE_ENABLED: true,
 };
